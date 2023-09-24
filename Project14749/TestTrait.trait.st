@@ -3,6 +3,8 @@ Trait {
 	#classInstVars : [
 		'testVar'
 	],
+	#traits : 'UsesTestTrait',
+	#classTraits : 'UsesTestTrait classTrait',
 	#category : #Project14749
 }
 
